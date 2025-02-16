@@ -1,1 +1,5 @@
-solidity tidak mengenal float, melainkan tipe data integer. Sehingga menggunakan 18 desimal alias 18 nol dibelakang koma
+a. solidity tidak mengenal float, melainkan tipe data integer. 
+Sehingga menggunakan 18 desimal alias 18 nol dibelakang koma
+
+b. langkah:
+- membuat kontrak utama, lalu deploy
